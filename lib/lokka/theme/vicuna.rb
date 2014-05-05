@@ -1,5 +1,5 @@
 require 'lokka/theme/vicuna/version'
-require 'sinatra'
+require 'sinatra/base'
 
 module Lokka
   module Theme
